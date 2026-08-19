@@ -1,48 +1,106 @@
-# Erivaldo Manuel🧑‍💻
+<div align="center">
 
-**`Software Developer`**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=136A89&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Erivaldo+%F0%9F%91%8B;Full+Stack+Web+Developer;React+%7C+TypeScript+%7C+Laravel+%7C+Node.js" alt="Typing SVG" />
 
-Sou um desenvolvedor Fullstack em formação, apaixonado por tecnologia e pela criação de soluções digitais que resolvem problemas reais.
-Tenho experiência no desenvolvimento de aplicações web modernas, trabalhando tanto no frontend quanto no backend. No frontend, utilizo tecnologias como React, TypeScript e TailwindCSS para criar interfaces intuitivas e responsivas. No backend, desenvolvo APIs e sistemas utilizando Node.js e Laravel e Python, com foco em performance e organização de código.Também possuo conhecimentos em banco de dados, utilizando MySQL e Prisma para modelagem e manipulação de dados de forma eficiente. 
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/erivaldo-manuel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-136A89?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:erivaldomanuelz35@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-136A89?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/244944576131" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-136A89?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+## 🧑‍💻 Sobre mim
+
+Sou um **desenvolvedor Full Stack** em formação, apaixonado por tecnologia e pela criação de soluções digitais que resolvem problemas reais.
+
+Tenho experiência no desenvolvimento de aplicações web modernas, trabalhando tanto no frontend quanto no backend. No frontend, utilizo React, TypeScript e TailwindCSS para criar interfaces intuitivas e responsivas. No backend, desenvolvo APIs e sistemas utilizando Node.js, Laravel e Python, com foco em performance e organização de código. Também possuo conhecimentos em bases de dados, utilizando MySQL e Prisma para modelagem e manipulação de dados de forma eficiente.
+
 Atualmente, estou focado em evoluir como desenvolvedor através da construção de projetos práticos, como sistemas de gestão e plataformas completas, buscando sempre aplicar boas práticas e aprender novas tecnologias.
 
-## 👨‍💻 Technologies
+- 🔭 A trabalhar em sistemas de gestão académica e plataformas de admissão
+- 🌱 Sempre a aprender novas tecnologias e boas práticas de engenharia de software
+- 📍 Baseado em Angola
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+<br/>
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+## 🛠️ Tecnologias
 
-[![React](https://img.shields.io/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <strong>💻 Frontend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css&theme=light" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <strong>⚙️ Backend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,laravel,php,python&theme=light" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <strong>🗄️ Dados & Ferramentas</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,prisma,git,github,vscode,vercel&theme=light" />
+    </td>
+  </tr>
+</table>
 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+> Se os ícones acima não aparecerem: é o `skillicons.dev` a demorar a responder na primeira carga — atualiza a página (F5). É um serviço externo gratuito, não um erro no teu README.
 
-[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+<br/>
 
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+## 📊 Estatísticas do GitHub
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Erivaldo07&show_icons=true&hide_border=true&theme=tokyonight&title_color=136A89&icon_color=136A89" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Erivaldo07&layout=compact&hide_border=true&theme=tokyonight&title_color=136A89" />
+</div>
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Erivaldo07&hide_border=true&theme=tokyonight&ring=136A89&fire=136A89" />
+</div>
 
-[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+> Estas imagens usam o `github-stats-extended.vercel.app` — o sucessor oficial do antigo `github-readme-stats`, recomendado pelo próprio autor original por ser mais estável. Se ainda assim uma imagem falhar na primeira vez, é normal (é um servidor gratuito) — atualiza a página (F5) que resolve na maioria das vezes.
 
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+<br/>
 
-[![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+## 📌 Projetos em destaque
 
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+<!-- Substitui REPO-1 / REPO-2 / REPO-3 pelo nome exato de cada repositório teu -->
 
-## Contacto📞
-Email:erivaldomanuelz35@gmail.com
+<div align="center">
 
-Linkedin:Erivaldo Manuel
+<a href="https://github.com/Erivaldo07/REPO-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erivaldo07&repo=REPO-1&hide_border=true&theme=tokyonight&title_color=136A89" />
+</a>
+<a href="https://github.com/Erivaldo07/REPO-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erivaldo07&repo=REPO-2&hide_border=true&theme=tokyonight&title_color=136A89" />
+</a>
 
-Telefone: +244 944 576 131
+</div>
 
-##
-Transformando ideias em soluções digitais com foco em inovação e impacto 🚀
+<br/>
 
+## 📫 Contacto
 
+<div align="center">
 
+📧 **Email:** erivaldomanuelz35@gmail.com
+📱 **Telefone:** +244 944 576 131
+💼 **LinkedIn:** [Erivaldo Manuel](https://www.linkedin.com/in/erivaldo-manuel)
 
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Erivaldo07&style=flat-square&color=136A89" alt="profile views" />
+</div>
