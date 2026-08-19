@@ -53,8 +53,6 @@ Atualmente, estou focado em evoluir como desenvolvedor através da construção 
   </tr>
 </table>
 
-> Se os ícones acima não aparecerem: é o `skillicons.dev` a demorar a responder na primeira carga — atualiza a página (F5). É um serviço externo gratuito, não um erro no teu README.
-
 <br/>
 
 ## 📊 Estatísticas do GitHub
@@ -67,8 +65,6 @@ Atualmente, estou focado em evoluir como desenvolvedor através da construção 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Erivaldo07&hide_border=true&theme=tokyonight&ring=136A89&fire=136A89" />
 </div>
-
-> Estas imagens usam o `github-stats-extended.vercel.app` — o sucessor oficial do antigo `github-readme-stats`, recomendado pelo próprio autor original por ser mais estável. Se ainda assim uma imagem falhar na primeira vez, é normal (é um servidor gratuito) — atualiza a página (F5) que resolve na maioria das vezes.
 
 <br/>
 
