@@ -73,23 +73,6 @@ Atualmente, estou focado em evoluir como desenvolvedor através da construção 
 
 <br/>
 
-## 📌 Projetos em destaque
-
-<!-- Substitui REPO-1 / REPO-2 / REPO-3 pelo nome exato de cada repositório teu -->
-
-<div align="center">
-
-<a href="https://github.com/Erivaldo07/REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erivaldo07&repo=REPO-1&hide_border=true&theme=tokyonight&title_color=136A89" />
-</a>
-<a href="https://github.com/Erivaldo07/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erivaldo07&repo=REPO-2&hide_border=true&theme=tokyonight&title_color=136A89" />
-</a>
-
-</div>
-
-<br/>
-
 ## 📫 Contacto
 
 <div align="center">
